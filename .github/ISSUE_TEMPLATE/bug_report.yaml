@@ -3,7 +3,9 @@ description: Create a report to help us improve
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["Codigo-io/11"]
-assignees: []
+assignees:
+  - TheDARKFURY
+  - JazielGuerrero
 body:
   - type: markdown
     attributes:
