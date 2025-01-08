@@ -1,0 +1,4 @@
+# Codeowners file for the Codigo repository
+# These users will be automatically requested for reviews on every pull request.
+
+* @JazielGuerrero
