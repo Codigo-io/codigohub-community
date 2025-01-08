@@ -3,7 +3,9 @@ description: Suggest an idea of how we can improve the product
 title: "[Enhancement]: "
 labels: ["enhancement", "triage"]
 projects: ["Codigo-io/11"]
-assignees: []
+assignees:
+  - TheDARKFURY
+  - JazielGuerrero
 body:
   - type: textarea
     id: problem
